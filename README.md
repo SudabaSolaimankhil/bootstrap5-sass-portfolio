@@ -2,6 +2,7 @@
 A portfolio designed with Bootstrap 5 and SASS
 
 Welcome to the **Learn Bootstrap 5 and Sass by Building a Portfolio Website** project! This repository is designed to help you get hands-on experience with Bootstrap 5 and Sass, two powerful tools for creating responsive and modern web pages.
+You can view the live demo of the project here: [Live Demo](https://sudabasolaimankhil.github.io/bootstrap5-sass-portfolio/)
 
 ## Table of Contents
 
