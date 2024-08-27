@@ -32,6 +32,7 @@ First, clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/SudabaSolaimankhil/bootstrap5-sass-portfolio.git
+```
 
 ### 2. Navigate to the Project Directory
 
@@ -39,6 +40,7 @@ Change your working directory to the project folder:
 
 ```bash
 cd bootstrap5-sass-portfolio
+```
 
 ### 3. Install Dependencies
 
@@ -46,6 +48,7 @@ Change your working directory to the project folder:
 
 ```bash
 npm install
+```
 
 ### 4. Compile Sass to CSS
 
@@ -53,6 +56,7 @@ If you have Sass installed globally, you can compile the Sass files to CSS:
 
 ```bash
 sass --watch scss:css
+```
 
 This command will watch the scss directory for changes and automatically compile the Sass files into the css directory.
 
@@ -62,3 +66,4 @@ You can now open the `index.html` file in your browser to view the portfolio web
 
 ```bash
 start index.html
+```
